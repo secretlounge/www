@@ -1,0 +1,7 @@
+
+<ol>
+{{range $i, $v := (split .Inner "\n-\n")}}
+{{ $n := add $i 1 }}
+<li class="rule" id="r{{$n}}">  {{  $v | markdownify }}  </li>
+{{ end }}
+</ol>

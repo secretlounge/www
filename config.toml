@@ -1,0 +1,33 @@
+baseURL = "https://mic.programmingsocks.com"
+languageCode = "en-us"
+title = "secretlounge"
+theme = "hugo-theme-techdoc"
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  # [[menu.main]]
+  #   name = "Rules"
+  #   url = "/rules"
+  #   weight = 2
+
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 6
+        ordered = true
+
+[params]
+    menu_style = "open-menu" # "open-menu" or "slide-menu"
+    # menu_exclusion = [
+    # "_index.md"
+    # ]
+
+    # Algolia site search section
