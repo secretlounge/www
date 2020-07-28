@@ -19,7 +19,7 @@ Below are a list of rules for @furryloungebot on Telegram, they can be updated a
 {{% ruleify %}}
 Do not discuss topics unrelated to furries or the furry fandom. Some off-topic is allowed, but keep it short.
 
-Topics such as politics, guns, and outside drama are NOT allowed and will result in a cooldown being given.
+Topics such as politics, guns, and outside drama are NOT allowed and will result in the messages getting removed.
 
 We have a bot for POLITICS over at [/pol/](https://t.me/politicsloungebot), use that instead.
 
@@ -52,7 +52,7 @@ Do not reply to stuff with "MODS" excessively or anything of that sort, we don't
 -
 If you do find something to be against the rules, leave a message in the Support Bot above and we will try to deal with it as soon as possible.
 -
-Excessive namefagging is not allowed and you will be given a cooldown if you do it, it is an anon bot. Excessive namefagging is defined as signing with "/s" or "/t" randomly when you're not involved, or saying names of users more than 3 times an hour (this doesn't apply per user but per mention). Also do not name the same people every day.
+Excessive namefagging (either by signing or mentioning names of users) is not allowed and the messages will be removed, this is an anon bot.
 -
 Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out as a pedo/rapist/zoo or saying they like cub/bestiality is frowned upon and will be removed.
 -
