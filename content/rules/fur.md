@@ -52,7 +52,7 @@ Do not reply to stuff with "MODS" excessively or anything of that sort, we don't
 -
 If you do find something to be against the rules, leave a message in the Support Bot above and we will try to deal with it as soon as possible.
 -
-Excessive namefagging (either by signing or mentioning names of users) is not allowed and the messages will be removed, this is an anon bot.
+Signing your message for no good reason (e.g "/s hello", "/s how is everyone") is not allowed and the message will be removed, only sign for something useful e.g. if someone wants to PM you. Fake signing will always be removed.
 -
 Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out as a pedo/rapist/zoo or saying they like cub/bestiality is frowned upon and will be removed.
 -
