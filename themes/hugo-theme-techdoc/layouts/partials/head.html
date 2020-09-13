@@ -14,16 +14,42 @@
 {{ hugo.Generator }}
 <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
 <link href="{{ .Site.BaseURL }}/index.xml" rel="alternate" type="application/rss+xml">
-<link rel="canonical" href="{{ .Permalink }}">
 <link rel="stylesheet" href="{{"css/theme.min.css" | absURL}}">
 <script>
-document.addEventListener('DOMContentLoaded', function(event) {
-anchors.options = {
-  visible: 'always',
-  placement: 'left',
-  icon: '§'
-};
-  anchors.add('.grule').add('.rule').add();
+
+
+
+
+     var qd = {};
+     if (location.search) location.search.substr(1).split("&").forEach(function(item) {var s = item.split("="), k = s[0], v = s[1] && decodeURIComponent(s[1]); (qd[k] = qd[k] || []).push(v)})
+
+ document.addEventListener('DOMContentLoaded', function(event) {
+     /* var qd = {};
+      * if (location.search) location.search.substr(1).split("&").forEach(function(item) {var s = item.split("="), k = s[0], v = s[1] && decodeURIComponent(s[1]); (qd[k] = qd[k] || []).push(v)}) */
+
+     var pathname = window.location.pathname,
+         part = pathname.substr(pathname.lastIndexOf('/') + 1);
+
+     if (!window.location.hash && part.match(/[rg][0-9]+/)) {
+         window.location.hash = part
+
+     }
+     if (!window.location.hash && qd['a']) {
+         // we're likely being pre-rendered now
+         window.location.hash = qd['a'][0];
+         var meta=document.createElement('meta');
+         meta.setAttribute('property', 'og:description');
+         meta.content =  document.getElementById(qd.a[0]).innerText
+
+         document.getElementsByTagName('head')[0].appendChild(meta);
+
+     }
+     anchors.options = {
+         visible: 'always',
+         placement: 'left',
+         icon: '§'
+     };
+     anchors.add('.grule').add('.rule').add();
 });
 </script>
 <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
@@ -35,6 +61,4 @@ anchors.options = {
 {{- partial "meta/tag-manager.html" . -}}
 {{- partial "meta/google-site-verification.html" . -}}
 {{- partial "custom-css.html" . -}}
-{{- template "_internal/opengraph.html" . -}}
-{{- template "_internal/twitter_cards.html" . -}}
 {{- template "_internal/schema.html" . -}}
