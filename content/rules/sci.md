@@ -15,4 +15,6 @@ title: /sci/ ~ science & math
 Do not post NSFW material (gore, porn, etc.)
 -
 {{% ontopic "the sciences, whether that be biology, chemistry, physics" %}}
+-
+No peddling pseudoscience as the real thing.
 {{% /ruleify %}}
