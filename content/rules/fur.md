@@ -1,5 +1,5 @@
 ---
-title: /fur/ rules
+title: /fur/ ~ furry
 ---
 
 # Global rules

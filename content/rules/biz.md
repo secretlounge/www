@@ -1,5 +1,5 @@
 ---
-title: /biz/ rules
+title: /biz/ ~ business & finance
 ---
 
 # Global rules

@@ -1,5 +1,5 @@
 ---
-title: /lgbt/ rules
+title: /lgbt/ ~ Lesbian, Gay, Bisexual & Transgender
 ---
 
 # Global rules

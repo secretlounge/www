@@ -1,6 +1,5 @@
-
 ---
-title: /b/ rules
+title: /b/ ~ random
 ---
 
 # Global rules

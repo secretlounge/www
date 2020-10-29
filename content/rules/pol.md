@@ -1,5 +1,5 @@
 ---
-title: /pol/ rules
+title: /pol/ ~ politically incorrect
 ---
 
 # Global rules

@@ -1,5 +1,5 @@
 ---
-title: /a/ rules
+title: /a/ ~ anime
 ---
 
 # Global rules

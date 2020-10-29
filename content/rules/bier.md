@@ -1,6 +1,5 @@
-
 ---
-title: /bier/ rules
+title: /bier/ ~ German
 ---
 
 # Global rules
