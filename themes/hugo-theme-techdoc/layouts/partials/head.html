@@ -12,11 +12,12 @@
 <meta name="description" content="{{ .Site.Params.description }}">
 {{- end }}
 {{ hugo.Generator }}
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script src="https://unpkg.com/tippy.js@6"></script>
 <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
 <link href="{{ .Site.BaseURL }}/index.xml" rel="alternate" type="application/rss+xml">
 <link rel="stylesheet" href="{{"css/theme.min.css" | absURL}}">
 <script>
-
 
 
 
@@ -50,6 +51,7 @@
          icon: '§'
      };
      anchors.add('.grule').add('.rule').add();
+     tippy('[data-tippy-content]');
 });
 </script>
 <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
