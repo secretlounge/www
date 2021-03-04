@@ -25,7 +25,7 @@ theme = "hugo-theme-techdoc"
         ordered = true
 
 [params]
-    menu_style = "open-menu" # "open-menu" or "slide-menu"
+    menu_style = "slide-menu" # "open-menu" or "slide-menu"
     # menu_exclusion = [
     # "_index.md"
     # ]
