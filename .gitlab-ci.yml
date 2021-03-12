@@ -1,7 +1,7 @@
 pages:
   script:
     - mkdir -v public
-    - cp index.html public/
+    - hugo
   artifacts:
     paths:
       - public
