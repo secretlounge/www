@@ -1,0 +1,7 @@
+pages:
+  script:
+    - mkdir -v public
+    - cp index.html public/
+  artifacts:
+    paths:
+      - public
