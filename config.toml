@@ -6,14 +6,14 @@ theme = "hugo-theme-techdoc"
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "List of all bots"
+    url = "https://t.me/secretloungeproject/9"
     weight = 1
 
-  [[menu.main]]
-    name = "Rules"
-    url = "/rules"
-    weight = 2
+  # [[menu.main]]
+  #   name = "Rules"
+  #   url = "/rules"
+  #   weight = 2
 
 [markup]
     defaultMarkdownHandler = "goldmark"
