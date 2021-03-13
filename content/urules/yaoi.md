@@ -1,5 +1,5 @@
 ---
-title: /yaoi/ ~ yaoi
+title: /y/ ~ yaoi
 ---
 
 <sub>This bot is unofficial. The secretlounge team take no responsibility for the moderation decisions made in this bot. Ban appeals related to this bot will not be processed by us. Either contact the owner of this bot if possible, or accept the ban.</sub>
@@ -9,7 +9,7 @@ title: /yaoi/ ~ yaoi
 {{% grulessubset %}}
 
 
-# Rules for /yaoi/
+# Rules for /y/
 
 {{% ruleify %}}
 This bot is specifically for gay content, either anime or IRL. Futas also allowed.
