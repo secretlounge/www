@@ -9,7 +9,7 @@ title: /christ/ ~ Christianity & faith
 {{% grulessubset2 %}}
 
 
-# Rules for /y/
+# Rules for /christ/
 
 {{% ruleify %}}
 Keep it SFW and Christian related.
