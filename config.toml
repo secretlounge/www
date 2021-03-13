@@ -10,10 +10,10 @@ theme = "hugo-theme-techdoc"
     url = "/"
     weight = 1
 
-  # [[menu.main]]
-  #   name = "Rules"
-  #   url = "/rules"
-  #   weight = 2
+  [[menu.main]]
+    name = "Rules"
+    url = "/rules"
+    weight = 2
 
 [markup]
     defaultMarkdownHandler = "goldmark"
@@ -26,8 +26,8 @@ theme = "hugo-theme-techdoc"
 
 [params]
     menu_style = "slide-menu" # "open-menu" or "slide-menu"
-    # menu_exclusion = [
-    # "_index.md"
-    # ]
+    menu_exclusion = [
+    "_index.md"
+    ]
 
     # Algolia site search section
