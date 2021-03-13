@@ -6,7 +6,7 @@ title: /christ/ ~ Christianity & faith
 
 # Global rules
 
-{{% grulessubset %}}
+{{% grulessubset2 %}}
 
 
 # Rules for /y/

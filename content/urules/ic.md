@@ -6,7 +6,7 @@ title: /ic/ ~ artwork & critique
 
 # Global rules
 
-{{% grulessubset %}}
+{{% grulessubset2 %}}
 
 
 # Rules for /ic/
