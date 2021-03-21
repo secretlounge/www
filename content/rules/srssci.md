@@ -1,5 +1,5 @@
 ---
-title: /sci/ ~ science & math
+title: /srssci/ ~ science & math
 ---
 
 # Global rules
@@ -7,7 +7,7 @@ title: /sci/ ~ science & math
 {{% grules %}}
 
 
-# Rules for /sci/
+# Rules for /srssci/
 
 {{% ruleify %}}
 [Global Rule #2]({{< ref "#g2" >}}) does not apply.
@@ -15,4 +15,6 @@ title: /sci/ ~ science & math
 Do not post NSFW material (gore, porn, etc.)
 -
 {{% ontopic "the sciences, whether that be biology, chemistry, physics" %}}
+-
+No peddling pseudoscience as the real thing.
 {{% /ruleify %}}
