@@ -7,7 +7,7 @@ theme = "hugo-theme-techdoc"
 [menu]
   [[menu.main]]
     name = "List of all bots"
-    url = "https://t.me/secretloungeproject/9"
+    url = "/list/"
     weight = 1
 
   # [[menu.main]]
