@@ -1,5 +1,6 @@
 ---
 title: List of chats, both official and unofficial
+url: /list
 ---
 
 Official
