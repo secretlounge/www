@@ -46,6 +46,8 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 - [SFW /a/ ~ non-lewd anime](http://t.me/aglenbot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
+- [/ind/ ~ India](https://t.me/indialoungebot)
+- [🔞 /booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
 
 
 Quotes
