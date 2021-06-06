@@ -32,7 +32,7 @@ We can't post a full list but to get an idea:
 - watersports
 - scat
 - fisting
- - vore
+- vore
 - gore
 - diapers
 - mlp (it isn't "extreme" but we don't allow it)
