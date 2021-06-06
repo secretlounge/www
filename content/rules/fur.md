@@ -28,19 +28,17 @@ Use a group chat or DMs for drama.
 Do not post media or discuss topics which are considered "extreme".
 
 We can't post a full list but to get an idea:
-- cub
+- cub/young
 - watersports
 - scat
 - fisting
-- inflation
 - vore
 - gore
 - diapers
-- hyper donut assholes
+- mlp (it isn't "extreme" but we don't allow it)
+- hyper/inflation
 
 If a mod sees something you post as extreme and it is removed and you feel as if it wasn't, leave a message in the Support Bot and we will try to get back to you as soon as possible.
--
-On-topic self-promotion is allowed, as long as it is not done excessively.
 -
 Adding to [Global Rule #8]({{< ref "#g8" >}}), advertising is also saying the name of a channel/group/bot without the @ before it, as well as splitting up the name. E.g. "It's in furry lounge bot"
 -
@@ -48,13 +46,9 @@ Do not complain about content you don't like, delete it your side and move on. E
 -
 Adding to [#5]({{< ref "#r5" >}}), any complaining about media (unless against the rules) will be removed.
 -
-Do not reply to stuff with "MODS" excessively or anything of that sort, we don't get notified and it looks like spam when we do eventually get around to deleting stuff. Once is usually enough.
+Signing is disabled. If you would like to PM someone without namefagging (e.g. you post art and someone wants to talk to you about it), you can create a channel that doesn't contain any names and post it to the bot and PM the ones that join.
 -
-If you do find something to be against the rules, leave a message in the Support Bot above and we will try to deal with it as soon as possible.
--
-Signing your message for no good reason (e.g "/s hello", "/s how is everyone") is not allowed and the message will be removed, only sign for something useful e.g. if someone wants to PM you. Fake signing will always be removed.
--
-Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out as a pedo/rapist/zoo or saying they like cub/bestiality is frowned upon and will be removed.
+Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out will result in a cooldown given, this is an anon bot and we don't care if X fucked Y.
 -
 We do not tolerate hate speech or targeting of users whether they are in the bot or not.
 -
