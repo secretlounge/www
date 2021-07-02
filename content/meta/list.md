@@ -33,7 +33,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 
 - [/int/ ~ international ](https://t.me/intloungebot)(SFW /b/ with flags)
 - [/tv/ ~ television & film](https://t.me/tvchanbot)
-- [/it/ ~ Italy (Italian-speaking)](https://t.me/italyloungebot)
+- [/it/ ~ Italy (Italian-speaking)](https://t.me/italyanonlounge_bot)
 - [/fit/ ~ fitness](https://t.me/fitloungebot)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
 - [/k/ - weapons](https://t.me/weaponchanbot)
