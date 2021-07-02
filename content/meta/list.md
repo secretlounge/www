@@ -44,6 +44,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/ic/ ~ Artwork/Critique](http://t.me/ArtworkLoungeBot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
 - [/ind/ ~ India](https://t.me/indialoungebot)
+- [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
 - [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
 - [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
