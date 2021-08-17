@@ -39,6 +39,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/k/ - weapons](https://t.me/weaponchanbot)
 - [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/sh/ ~ self help & advice](https://t.me/shloungebot)
+- [/booty/ ~ asses, butts & glutes](https://t.me/bootylounge_bot)
 - [/p/ ~ photography](http://t.me/PhotographyLoungeBot)
 - [/ic/ ~ Artwork/Critique](http://t.me/ArtworkLoungeBot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
