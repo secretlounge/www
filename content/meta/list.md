@@ -39,7 +39,6 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/k/ - weapons](https://t.me/weaponchanbot)
 - [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/sh/ ~ self help & advice](https://t.me/shloungebot)
-- [/booty/ ~ asses, butts & glutes](https://t.me/bootylounge_bot)
 - [/p/ ~ photography](http://t.me/PhotographyLoungeBot)
 - [/ic/ ~ Artwork/Critique](http://t.me/ArtworkLoungeBot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
@@ -48,6 +47,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
 - [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
+- [NSFW 🔞] [/booty/ ~ asses, butts & glutes](https://t.me/bootylounge_bot)
 - [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
 
