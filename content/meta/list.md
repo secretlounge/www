@@ -47,7 +47,6 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
 - [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
-- [NSFW 🔞] [/booty/ ~ asses, butts & glutes](https://t.me/bootylounge_bot)
 - [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
 
