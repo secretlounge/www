@@ -31,6 +31,7 @@ Unofficial
 Some other chats that might interest you (not affiliated with Secret Lounge):
 We do not control, moderate or endorse these in any form. Use them at your own risk.
 
+- [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot)(SFW /fur/)
 - [/int/ ~ international ](https://t.me/intloungebot)(SFW /b/ with flags)
 - [/tv/ ~ television & film](https://t.me/tvchanbot)
 - [/it/ ~ Italy (Italian-speaking)](https://t.me/italyanonlounge_bot)
