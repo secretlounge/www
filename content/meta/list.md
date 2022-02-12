@@ -33,11 +33,9 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 
 - [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot) (SFW /fur/)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
-- [/tv/ ~ television & film](https://t.me/tvchanbot)
 - [/it/ ~ Italy (Italian-speaking)](https://t.me/italyanonlounge_bot)
 - [/fit/ ~ fitness](https://t.me/fitloungebot)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
-- [/k/ - weapons](https://t.me/weaponchanbot)
 - [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/sh/ ~ self help & advice](https://t.me/shloungebot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
@@ -48,6 +46,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
 - [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
+- [NSFW 🔞] [/bierlgbt/ ~ bier but LGBT](https://t.me/schwulbierbot)
 
 
 Quotes
