@@ -46,7 +46,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
 - [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
-
+- [NSFW 🔞] [/bierlgbt/ ~ bier but LGBT](https://t.me/schwulbierbot)
 
 Quotes
 ========
