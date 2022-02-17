@@ -31,6 +31,8 @@ Unofficial
 Some other chats that might interest you (not affiliated with Secret Lounge):
 We do not control, moderate or endorse these in any form. Use them at your own risk.
 
+- [/SNM/ ~  Secrétariat National du Mémétisme](https:/t.me/Memetique_bot) - the French-speaking equivalent of /pol/
+- [/br/ ~ Brasil](https://t.me/brloungebot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
 - [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/fit/ ~ fitness](https://t.me/fitloungebot)
