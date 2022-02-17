@@ -31,22 +31,22 @@ Unofficial
 Some other chats that might interest you (not affiliated with Secret Lounge):
 We do not control, moderate or endorse these in any form. Use them at your own risk.
 
+- [/ck/ ~ food & cooking](http://t.me/ckloungebot)
+- [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
+- [/fit/ ~ fitness](https://t.me/fitloungebot)
 - [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot) (SFW /fur/)
+- [/ind/ ~ India](https://t.me/indialoungebot)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
 - [/it/ ~ Italy (Italian-speaking)](https://t.me/italyanonlounge_bot)
-- [/fit/ ~ fitness](https://t.me/fitloungebot)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
-- [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/sh/ ~ self help & advice](https://t.me/shloungebot)
-- [/ck/ ~ food & cooking](http://t.me/ckloungebot)
-- [/ind/ ~ India](https://t.me/indialoungebot)
-- [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
-- [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
-- [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
-- [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
+- [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
 - [NSFW 🔞] [/bierlgbt/ ~ bier but LGBT](https://t.me/schwulbierbot)
+- [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
+- [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
+- [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 
 Quotes
 ========
