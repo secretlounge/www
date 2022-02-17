@@ -38,7 +38,6 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot) (SFW /fur/)
 - [/ind/ ~ India](https://t.me/indialoungebot)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
-- [/it/ ~ Italy (Italian-speaking)](https://t.me/italyanonlounge_bot)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
 - [/sh/ ~ self help & advice](https://t.me/shloungebot)
 - [/SNM/ ~  Secrétariat National du Mémétisme](https://t.me/Memetique_bot) - the French-speaking equivalent of /pol/
