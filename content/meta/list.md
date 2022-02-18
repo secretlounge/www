@@ -43,6 +43,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/SNM/ ~  Secrétariat National du Mémétisme](https://t.me/Memetique_bot) - the French-speaking equivalent of /pol/
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
 - [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
+- [/tv/ ~ television & film](https://t.me/tvchatbot)
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
 - [NSFW 🔞] [/bierlgbt/ ~ bier but LGBT](https://t.me/schwulbierbot)
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
