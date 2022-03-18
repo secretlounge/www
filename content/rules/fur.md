@@ -28,6 +28,7 @@ Use a group chat or DMs for drama.
 Do not post media or discuss topics which are considered "extreme".
 
 We can't post a full list but to get an idea:
+- feral
 - cub/young
 - watersports
 - scat
