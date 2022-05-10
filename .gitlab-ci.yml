@@ -1,3 +1,6 @@
+image:
+  name: ghcr.io/peaceiris/hugo:latest-full
+  entrypoint: [""]
 pages:
   script:
     - mkdir -v public
