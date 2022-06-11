@@ -31,6 +31,7 @@ Unofficial
 Some other chats that might interest you (not affiliated with Secret Lounge):
 We do not control, moderate or endorse these in any form. Use them at your own risk.
 
+- [/it/ ~ Italy (Italian-speaking)](https://t.me/italysecretloungebot)
 - [/br/ ~ Brasil](https://t.me/brloungebot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
 - [/cat/ ~ meow](https://t.me/catloungebot)
