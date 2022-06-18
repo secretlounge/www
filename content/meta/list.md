@@ -34,6 +34,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/br/ ~ Brasil](https://t.me/brloungebot)
 - [/ck/ ~ food & cooking](http://t.me/ckloungebot)
 - [/cat/ ~ meow](https://t.me/catloungebot)
+- [/dog/ ~ woof](https://t.me/dogloungebot)
 - [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/fit/ ~ fitness](https://t.me/fitloungebot)
 - [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot) (SFW /fur/)
