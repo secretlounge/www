@@ -32,7 +32,8 @@ Some other chats that might interest you (not affiliated with Secret Lounge):
 We do not control, moderate or endorse these in any form. Use them at your own risk.
 
 - [/br/ ~ Brasil](https://t.me/brloungebot)
-- [/ck/ ~ food & cooking](http://t.me/ckloungebot)
+- [/ck/ ~ food & cooking](https://t.me/ckloungebot)
+- [/food/ ~ nom nom nom](https://t.me/foodloungebot)
 - [/cat/ ~ meow](https://t.me/catloungebot)
 - [/dog/ ~ woof](https://t.me/dogloungebot)
 - [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
