@@ -47,7 +47,7 @@ Do not complain about content you don't like, delete it your side and move on. E
 -
 Adding to [#5]({{< ref "#r5" >}}), any complaining about media (unless against the rules) will be removed.
 -
-Signing is disabled. If you would like to PM someone without namefagging (e.g. you post art and someone wants to talk to you about it), you can create a channel that doesn't contain any names and post it to the bot and PM the ones that join.
+If you would like someone to message you, you can sign your message (e.g. /s message me for dick pics) and it will sign your name at the end of your message. Abusing this feature will result in a blacklist, we don't want constant namefags with this.
 -
 Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out will result in a cooldown given, this is an anon bot and we don't care if X fucked Y.
 -
