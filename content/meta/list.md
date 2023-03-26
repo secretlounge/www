@@ -42,7 +42,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/ind/ ~ India](https://t.me/indialoungebot)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
-- [/sh/ ~ self help & advice](https://t.me/shloungebot)
+- [/sh/ ~ self help & advice](https://t.me/AdviceAnonBot)
 - [/SNM/ ~  Secrétariat National du Mémétisme](https://t.me/Memetique_bot) - the French-speaking equivalent of /pol/
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
 - [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
