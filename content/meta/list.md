@@ -32,14 +32,11 @@ Some other chats that might interest you (not affiliated with Secret Lounge):
 We do not control, moderate or endorse these in any form. Use them at your own risk.
 
 - [/br/ ~ Brasil](https://t.me/brloungebot)
-- [/ck/ ~ food & cooking](https://t.me/ckloungebot)
 - [/food/ ~ nom nom nom](https://t.me/foodloungebot)
 - [/cat/ ~ meow](https://t.me/catloungebot)
 - [/dog/ ~ woof](https://t.me/dogloungebot)
-- [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
-- [/fit/ ~ fitness](https://t.me/fitloungebot)
+- [/fit/ ~ fitness](https://t.me/fitloungerobot)
 - [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot) (SFW /fur/)
-- [/ind/ ~ India](https://t.me/indialoungebot)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
 - [/sh/ ~ self help & advice](https://t.me/AdviceAnonBot)
