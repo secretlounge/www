@@ -36,7 +36,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/cat/ ~ meow](https://t.me/catloungebot)
 - [/dog/ ~ woof](https://t.me/dogloungebot)
 - [/fit/ ~ fitness](https://t.me/fitloungerobot)
-- [/fursfw/ ~ furry SFW](https://t.me/sfwfurbot) (SFW /fur/)
+- [/fursfw/ ~ furry SFW](https://t.me/fursfwbot) (SFW /fur/)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
 - [/o/ ~ Cars & transportation](https://t.me/motorloungebot)
 - [/sh/ ~ self help & advice](https://t.me/AdviceAnonBot)
