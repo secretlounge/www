@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://thingsym.github.io/hugo-theme-techdoc"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -22,8 +22,7 @@ enableMissingTranslationPlaceholders = false
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
     github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    github_doc_repository_path = ""
-    github_doc_repository_branch = "master"
+    github_doc_repository_path = "exampleSite/content/"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -45,7 +44,7 @@ enableMissingTranslationPlaceholders = false
 
     # Documentation Menu section
     # Menu style settings
-    menu_style = "open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
+    menu_style = "slide-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
 
     # Date format
     dateformat = "" # default "2 Jan 2006"
@@ -75,18 +74,11 @@ enableMissingTranslationPlaceholders = false
         name = "Home"
         url = "/"
         weight = 1
-        identifier = 'home'
-        pre = "<i class='fa fa-heart'></i>&nbsp;"
 
     [[menu.main]]
         name = "Twitter"
         url = "https://twitter.com/thingsym"
         weight = 2
-        identifier = 'twitter'
-        pre = "<b>pre!</b> "
-        post = " <b>post!</b>"
-        [menu.main.params]
-          class = 'twitter-menu-item'
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/

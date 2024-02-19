@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{{ with .Site.LanguageCode }}<html  prefix="og: http://ogp.me/ns#"  lang="{{ . }}">{{ else }}<html>{{ end }}
+{{ with .Site.LanguageCode }}<html lang="{{ . }}">{{ else }}<html>{{ end }}
 <head>
 {{- partial "head.html" . -}}
 {{- partial "custom-head.html" . -}}

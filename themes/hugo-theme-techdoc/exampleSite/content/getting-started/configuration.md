@@ -15,11 +15,13 @@ For an example of `config.toml`, see [config.toml](https://github.com/thingsym/h
     # Source Code repository section
     description = "put your description"
     github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    version = "0.9.2"
+    version = "1.0.0"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
     github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+    github_doc_repository_path = ""
+    github_doc_repository_branch = "master"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -41,7 +43,7 @@ For an example of `config.toml`, see [config.toml](https://github.com/thingsym/h
 
     # Documentation Menu section
     # Menu style settings
-    menu_style = "open-menu" # "open-menu" or "slide-menu"
+    menu_style = "open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
 
     # Date format
     dateformat = "" # default "2 Jan 2006"
@@ -80,13 +82,19 @@ default: `https://github.com/thingsym/hugo-theme-techdoc`
 
 The version of souce code
 
-default: `0.9.2`
+default: `1.0.0`
 
 #### `github_doc_repository`
 
 URL of documentation repository for editting
 
 default: `https://github.com/thingsym/hugo-theme-techdoc`
+
+#### `github_doc_repository_path`
+
+content directory path (when including the content directory in the repository)
+
+default: `""`
 
 #### `google_analytics_id`
 
@@ -145,7 +153,7 @@ default: `""`
 
 Documentation Menu style, Open Menu or Slide Menu
 
-default: `open-menu`  
+default: `open-menu`
 value: `open-menu` | `slide-menu`
 
 #### `dateformat`
@@ -159,13 +167,13 @@ Path name excluded from documentation menu
 By default, we exclude commonly used folder names in blogs.
 
 default: `[
-        "archives",
-        "archive",
-        "blog",
-        "entry",
-        "post",
-        "posts"
-    ]`
+			"archives",
+			"archive",
+			"blog",
+			"entry",
+			"post",
+			"posts"
+	]`
 
 
 #### `algolia_search_enable`
