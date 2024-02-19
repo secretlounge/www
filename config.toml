@@ -9,6 +9,14 @@ theme = "hugo-theme-techdoc"
     name = "List of all bots"
     url = "/list/"
     weight = 1
+  [[menu.main]]
+    name = "Legal"
+    url = "/meta/legal/"
+    weight = 2
+  [[menu.main]]
+    name = "FAQ"
+    url = "/meta/faq/"
+    weight = 3
 
   # [[menu.main]]
   #   name = "Rules"
