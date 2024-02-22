@@ -16,3 +16,9 @@ We are unable to identify who posted a message unless:
 More information on the anonymity can be found [here](/meta/faq/).
 
 Source code can be found at https://github.com/secretlounge/secretlounge-ng
+
+# Transparency
+
+SecretLounge and its administration have received **0** subpoenas, injunctions, court orders or any sort of request from a law enforcement officer.
+
+Last updated 2024-02-22.
