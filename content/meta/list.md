@@ -50,7 +50,6 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [NSFW 🔞] [/cub/ ~ furry bot with a focus on cubs](https://t.me/cubloungebot)
 - [NSFW 🔞] [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 - [NSFW 🔞] [/paws/ ~ furry paws](https://t.me/pawsloungebot)
-- [NSFW 🔞] [/chub/ ~ fat appreciation](https://t.me/chubbyloungebot)
 
 Quotes
 ========
