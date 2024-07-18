@@ -44,6 +44,7 @@ We do not control, moderate or endorse these in any form. Use them at your own r
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
 - [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
 - [/tv/ ~ television & film](https://t.me/tvchatbot)
+- [/chud/ ~ cesspool](https://t.me/freibier_barbot) - /christ/ian replacement
 - [NSFW 🔞] [/bbc/ ~ big black cocks](https://t.me/bbcloungebot)
 - [NSFW 🔞] [/bierlgbt/ ~ bier but LGBT](https://t.me/schwulbierbot)
 - [NSFW 🔞] [/booba/ ~ tits, jugs & milkers](https://t.me/boobaloungebot)
