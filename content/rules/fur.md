@@ -45,7 +45,7 @@ Adding to [Global Rule #8]({{< ref "#g8" >}}), advertising is also saying the na
 -
 Do not complain about content you don't like, delete it your side and move on. Everyone has different tastes.
 -
-Adding to [#5]({{< ref "#r5" >}}), any complaining about media (unless against the rules) will be removed.
+Adding to [#4]({{< ref "#r4" >}}), any complaining about media (unless against the rules) will be removed.
 -
 If you would like someone to message you, you can sign your message (e.g. /s message me for dick pics) and it will sign your name at the end of your message. Abusing this feature will result in a blacklist, we don't want constant namefags with this.
 -
