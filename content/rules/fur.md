@@ -28,7 +28,7 @@ Use a group chat or DMs for drama.
 Do not post media or discuss topics which are considered "extreme".
 
 We can't post a full list but to get an idea:
-- feral
+- feral¹
 - cub/young
 - watersports
 - scat
@@ -39,6 +39,7 @@ We can't post a full list but to get an idea:
 - mlp (it isn't "extreme" but we don't allow it)
 - hyper/inflation
 
+¹ - we allow feral as long as it isn't realistic looking renders/media, human x feral or creepy looking
 If a mod sees something you post as extreme and it is removed and you feel as if it wasn't, leave a message in the Support Bot and we will try to get back to you as soon as possible.
 -
 Adding to [Global Rule #8]({{< ref "#g8" >}}), advertising is also saying the name of a channel/group/bot without the @ before it, as well as splitting up the name. E.g. "It's in furry lounge bot"
