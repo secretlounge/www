@@ -1,5 +1,5 @@
 image:
-  name: ghcr.io/peaceiris/hugo:latest-full
+  name: ghcr.io/peaceiris/hugo:v0.146.4-full
   entrypoint: [""]
 pages:
   script:

@@ -6,22 +6,22 @@ draft: false
 weight: 20
 ---
 
-You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+You may specify options in hugo.toml (or hugo.yaml/hugo.json) of your site to make use of this theme’s features.
 
-For an example of `config.toml`, see [config.toml](https://github.com/thingsym/hugo-theme-techdoc/blob/master/exampleSite/config.toml) in exampleSite.
+For an example of `hugo.toml`, see [hugo.toml](https://github.com/thingsym/hugo-theme-techdoc/blob/master/exampleSite/hugo.toml) in exampleSite.
 
 ## Params
 
     # Source Code repository section
     description = "put your description"
     github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    version = "1.0.0"
+    version = "1.0.2"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
     github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    github_doc_repository_path = ""
     github_doc_repository_branch = "master"
+    github_doc_repository_path = ""
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -74,19 +74,19 @@ default: `put your description`
 
 #### `github_repository`
 
-URL of souce code repository
+URL of source code repository
 
 default: `https://github.com/thingsym/hugo-theme-techdoc`
 
 #### `version`
 
-The version of souce code
+The version of source code
 
-default: `1.0.0`
+default: `1.0.2`
 
 #### `github_doc_repository`
 
-URL of documentation repository for editting
+URL of documentation repository for editing
 
 default: `https://github.com/thingsym/hugo-theme-techdoc`
 
