@@ -3,4 +3,19 @@
   {{- with .Site.Params.custom_font_color }}--custom-font-color: {{ . | safeCSS }};{{ end -}}
   {{- with .Site.Params.custom_background_color }}--custom-background-color: {{ . | safeCSS }};{{ end -}}
 }
+:target {
+    border-left-color: red;
+    /* animation: highlight 1s ease;
+       transform: translateX(20px); */
+}
+ /* @keyframes highlight {
+    0% { border-left-color: red; }
+    100% { border-left-color: white; }
+    } */
+ol > li {
+  border-left: 10px solid #fafafa;
+  padding: 20px;
+  padding-right: 50px;
+  margin-left: -20px;
+}
 </style>
