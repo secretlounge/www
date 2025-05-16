@@ -10,12 +10,15 @@ title: /a/ ~ anime
 # Rules for /a/
 
 {{% ruleify %}}
-Do not discuss topics unrelated to anime or Japan. Some off-topic is allowed, but keep it short.
+{{% ontopic "anime and Japan" %}}
+
+Do not post generic AI slop.
 -
 Do not post images that are considered “extreme” such as but not limited to:
 - toddlercon
 - guro
-- scat.
+- scat
+- bestiality.
 
 Please note that loli, shota, and tentacles are allowed.
 -

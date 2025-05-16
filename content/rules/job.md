@@ -10,5 +10,9 @@ title: /job/ ~ careers and occupations
 # Rules for /job/
 
 {{% ruleify %}}
-{{% ontopic "job experiences, employment, interviews" %}}
+[Global Rule #2]({{< ref "#g2" >}}) does not apply.
+-
+Do not post NSFW material (gore, porn, etc.)
+-
+{{% ontopic "job experiences, employment, interviews, etc." %}}
 {{% /ruleify %}}

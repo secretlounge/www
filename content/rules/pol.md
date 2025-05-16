@@ -10,7 +10,7 @@ title: /pol/ ~ politically incorrect
 # Rules for /pol/
 
 {{% ruleify %}}
-You will not discuss topics which are not political in nature. This includes trolling, flaming, NSFW imagery and porn of which belong in /b/.
+You will not discuss topics which are not political in nature. This includes NSFW imagery and porn, which belong in /b/.
 -
-Contrary to global rule 10, trolling is permitted.
+Contrary to [global Rule #10]({{< ref "#g10" >}}), trolling is permitted.
 {{% /ruleify %}}
