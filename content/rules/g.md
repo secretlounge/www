@@ -14,5 +14,5 @@ title: /g/ ~ technology
 -
 Do not post NSFW material (gore, porn, etc.)
 -
-Do not discuss topics unrelated to technology. Some off-topic is allowed, but keep it short.
+{{% ontopic "technology" %}}
 {{% /ruleify %}}
