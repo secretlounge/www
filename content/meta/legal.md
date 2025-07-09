@@ -21,4 +21,4 @@ Source code can be found at https://github.com/secretlounge/secretlounge-ng
 
 SecretLounge and its administration have received **0** subpoenas, injunctions, court orders or any sort of request from a law enforcement officer.
 
-Last updated 2024-02-22.
+Last updated 2025-07-09.
