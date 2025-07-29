@@ -30,25 +30,26 @@ Unofficial
 
 Some other chats that might interest you (not affiliated with Secret Lounge):
 
-We do not control, moderate or endorse these in any form. Use them at your own risk and not that some may be **18+**.
+We do not control, moderate or endorse these in any form. Nor can we vouch for their handling of user anonymity.
+Use them at your own risk and note that some may be **18+**.
 
 - [/br/ ~ brasil](https://t.me/brloungebot)
 - [/food/ ~ nom nom nom](https://t.me/foodloungebot)
 - [/cat/ ~ meow](https://t.me/catloungebot)
 - [/dog/ ~ woof](https://t.me/dogloungebot)
 - [/fit/ ~ fitness](https://t.me/fitloungerobot)
-- [/fa/ ~ fashion & skincare](https://t.me/fashionloungebot)
 - [/fursfw/ ~ furry SFW](https://t.me/fursfwbot) (SFW /fur/)
 - [/int/ ~ international](https://t.me/intloungebot) (SFW /b/ with flags)
 - [/o/ ~ cars & transportation](https://t.me/motorloungebot)
 - [/sh/ ~ self help general](https://t.me/AdviceAnonBot)
 - [/tr/ ~ Turkey](https://t.me/tranonimbot) (an alternative to /turkey/)
 - [/turkey/ ~ Turkey](https://t.me/ZurnaLoungeBot)
-- [/tv/ ~ television & film](https://t.me/tvchatbot)
-- [/chud/ ~ cesspool](https://t.me/freibier_barbot) - /christ/ian replacement
-- [/bierlgbt/ ~ bier, aber schwuler](https://t.me/schwulbierbot) - like /bier/ but gay
+- [/chud/ ~ cesspool](https://t.me/freibier_barbot)
+- [/bierlgbt/ ~ bier, aber schwuler](https://t.me/schwulbierbot) (like /bier/ but gay)
 - [/shiny/ ~ latex](http://t.me/shinyclothesbot)
 - [/paws/ ~ furry paws](https://t.me/pawsloungebot)
+- [/slop/ ~ AI slop](https://t.me/AISlopggbot)
+- [/tv/ ~ television & film](https://t.me/TvAnonChatbot)
 
 Quotes
 ========
