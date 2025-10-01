@@ -19,9 +19,7 @@ These bots are run by Secret Lounge, but be aware that some bots rules are stric
 - [NSFW 🔞] [/bier/ ~ zufällig](https://t.me/bierloungebot) (German-speaking)
 - [/biz/ ~ business & finance](https://t.me/bizloungebot)
 - [/v/ ~ video games](https://t.me/videogamesloungebot)
-- [NSFW 🔞] [/x/ ~ paranormal](https://t.me/paranormalloungebot)
 - [/job/ ~ careers and occupation](https://t.me/jobsloungebot)
-- [/sci/ ~ science and math](https://t.me/scimathloungebot)
 - [NSFW 🔞] [/feet/ ~ feet lounge bot](https://t.me/feetlounge_bot)
 
 
