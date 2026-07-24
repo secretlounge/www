@@ -15,4 +15,6 @@ title: /lgbt/ ~ Lesbian, Gay, Bisexual & Transgender
 Be civil: critique is allowed, trolling is not.
 -
 As an exception to to [Global Rule #4]({{< ref "#g4" >}}), SFW furry stickers are allowed.
+-
+The usage of slurs is forbidden.
 {{% /ruleify %}}
