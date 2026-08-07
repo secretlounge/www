@@ -19,6 +19,6 @@ Source code can be found at https://github.com/secretlounge/secretlounge-ng
 
 # Transparency
 
-SecretLounge and its administration have received **0** subpoenas, injunctions, court orders or any sort of request from a law enforcement officer.
+Secret Lounge and its administration have so far received **0** subpoenas, injunctions, court orders or any sort of request from any law enforcement officer or agency.
 
-Last updated 2026-07-23.
+Last updated 2026-08-07.

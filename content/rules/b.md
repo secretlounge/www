@@ -10,5 +10,5 @@ title: /b/ ~ random
 # Rules for /b/
 
 {{% ruleify %}}
-[Global Rule #10]({{< ref "#g10" >}}) does not apply.
+Trolls rein free! [Global Rule #10]({{< ref "#g10" >}}) does not apply.
 {{% /ruleify %}}

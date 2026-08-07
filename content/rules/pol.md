@@ -12,5 +12,5 @@ title: /pol/ ~ politically incorrect
 {{% ruleify %}}
 You will not discuss topics which are not political in nature. This includes NSFW imagery and porn, which belong in /b/.
 -
-Contrary to [global Rule #10]({{< ref "#g10" >}}), trolling is permitted.
+[Global Rule #10]({{< ref "#g10" >}}) does not apply in this chat.
 {{% /ruleify %}}

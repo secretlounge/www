@@ -18,7 +18,7 @@ Do not post images that are considered “extreme” such as but not limited to:
 - toddlercon
 - guro
 - scat
-- bestiality.
+- bestiality
 
 Please note that loli, shota, and tentacles are allowed.
 -

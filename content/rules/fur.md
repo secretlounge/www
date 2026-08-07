@@ -9,7 +9,7 @@ title: /fur/ ~ furry
 
 # Rules for /fur/
 
-Make sure to read the above, the only Global Rules that don't apply to the /fur/ bot are #4 and exception to #8 where you can advertise a channel with furry art in (not a Telegram group but a channel!).
+Make sure to read the above, the only Global Rule that doesn't apply to /fur/ is [#4]({{< ref "#g4" >}}).
 
 
 Below are a list of rules for [/fur/](https://t.me/furryloungebot) on Telegram, they can be updated at any time with notice given in the bot by a mod/adminsay.
@@ -40,16 +40,19 @@ Do not post media or discuss topics in this list:
 ² - This includes AI-generated media, discussion about it, or complaints.
 
 -
-Adding to [Global Rule #8]({{< ref "#g8" >}}), saying the name of a channel/group/bot without the @ before it, as well as splitting up the name is *also* advertising. E.g. "It's in furry lounge bot"
+Adding to [Global Rule #8]({{< ref "#g8" >}}), advertising other Telegram channels/groups/bots is not allowed.
+Naming a channel/group/bot without the leading `@`, as well as splitting up the name is also considered advertising (e.g. "it's in furry lounge bot").
+As an exception you may advertise a channel with furry art in (not a group but a channel!).
 -
 Do not complain about content you don't like, delete it your side and move on. Everyone has different tastes.
-Any complaining (unless against the rules) will be removed.
+Any complaining (unless justified) will be removed.
 -
-If you would like someone to message you, you can sign your message (e.g. `/s we should talk more in DM`) and it will sign your name at the end of your message. Abusing this feature will result in a blacklist, we don't want constant namefags.
+If you would like someone to message you, you can sign your message by starting it with `/s` (e.g. `/s we should talk more in DM`) and it will sign your username at the end of your message. Abusing this feature will result in a ban, we don't want namefagging.
 -
-Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out will result in a cooldown given, this is an anon bot and we don't care if blank fucked blank.
+Adding to [Global Rule #10]({{< ref "#g10" >}}), calling someone out will result in a cooldown given, this is an anon bot and we don't care if *blank* fucked *blank*.
 -
 We do not tolerate hate speech or targeting of users whether they are in the bot or not.
 {{% /ruleify %}}
 
-Mods/Admins have the right to remove content and give cooldowns at any time if you break the rules. These bots are provided for free and moderated for free by volunteers, treat them as you would want them to treat you.
+Mods/Admins have the right to remove content and give cooldowns at any time if you break the rules.
+These bots are provided for free and moderated for free by volunteers, treat them as you would want them to treat you.

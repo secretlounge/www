@@ -12,7 +12,7 @@ title: /g/ ~ technology
 {{% ruleify %}}
 [Global Rule #2]({{< ref "#g2" >}}) does not apply.
 -
-Do not post NSFW material (gore, porn, etc.)
+This is a work-safe chat. Do not post NSFW material (adult content, etc.)
 -
 {{% ontopic "technology" %}}
 {{% /ruleify %}}

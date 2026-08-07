@@ -12,5 +12,5 @@ title: /biz/ ~ business & finance
 {{% ruleify %}}
 Do not discuss topics unrelated to business and finance. Some off-topic is allowed, but keep it short.
 -
-Do not post NSFW material (gore, porn, etc.)
+This is a work-safe chat. Do not post NSFW material (adult content, etc.)
 {{% /ruleify %}}
